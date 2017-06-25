@@ -1,0 +1,9 @@
+pandas-highcharts
+seaborn
+dask==0.15.0
+tensorflow==1.0.1
+wget
+wordcloud
+thrift_sasl
+requests-kerberos
+thrift==0.9.3
