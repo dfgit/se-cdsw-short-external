@@ -18,7 +18,7 @@ html(paste("<a href='", service.url, "'>click here for web page</a>"))
 ## Sleep Mode
 #* bad idea
 #message("Going into sleeping beauty mode. Click interrupt to stop")
-#while(TRUE) { 
-#  # message(sprintf("Still Here %s", format(Sys.time(), "%a %b %d %H:%M:%S %Y")))
-#  Sys.sleep(600) 
-#}
+# while(TRUE) { 
+#   message(sprintf("Still Here %s", format(Sys.time(), "%a %b %d %H:%M:%S %Y")))
+#   Sys.sleep(600) 
+# }
