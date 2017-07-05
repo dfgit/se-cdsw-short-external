@@ -22,7 +22,7 @@ You can run the following to cover all setup tasks once:
 
 1. Stop any workbench sessions.
 
-2. Run scripts in SETUP director, watch for errors
+2. Run scripts in SETUP directory. Use R session for setup_R_pkgs.R, watch for errors
 
 ## Files
 ```
