@@ -24,6 +24,8 @@ You can run the following to cover all setup tasks once:
 
 2. Run scripts in SETUP directory. Use R session for setup_R_pkgs.R, watch for errors
 
+3. Change code in 5_ibis.py to connect to your Impala daemons.
+
 ## Files
 ```
 .
@@ -80,6 +82,9 @@ We recommend setting up a **"Nightly Analysis"** job to illustrate how data scie
 ## Misc files
 _bashrc
 _gitignore
+
+* From a terminal window: cp /home/cdsw/MISC/_gitignore /home/cdsw/.gitignore
+* Optional: cp /home/cdsw/MISC/_bashrc /home/cdsw/.bashrc
 
 
 ## For "Alice In Wonderland" word cloud
