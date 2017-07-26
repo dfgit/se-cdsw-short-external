@@ -22,7 +22,9 @@ You can run the following to cover all setup tasks once:
 
 1. Stop any workbench sessions.
 
-2. Run scripts in SETUP directory. Use R session for setup_R_pkgs.R, watch for errors
+2. Run scripts in SETUP directory. Use R session for setup_R_pkgs.R from inside CDSW (this can take awhile)
+
+3. Run a python session and run the rest of the shell scripts
 
 3. Change code in 5_ibis.py to connect to your Impala daemons.
 
