@@ -6,6 +6,7 @@ import tensorflow as tf
 import numpy as np
 import matplotlib
 from matplotlib import pyplot as plt
+import matplotlib.cm as cm
 
 from UTILS import tensor_utils
 from UTILS import env_utils
